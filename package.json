@@ -1,0 +1,27 @@
+{
+  "name": "winjs-node",
+  "version": "0.1.0",
+  "description": "WinJS Promise and xhr for node",
+  "main": "src/js/WinJS.js",
+  "dependencies": {
+    "xhr2": "^0.1.2"
+  },
+  "devDependencies": {
+    "typescript": "^1.5.0-beta"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gautamsi/winjs-node.git"
+  },
+  "author": "",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/gautamsi/winjs-node/blob/master/License.txt"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/gautamsi/winjs-node/issues"
+  },
+  "homepage": "https://github.com/gautamsi/winjs-node"
+}
