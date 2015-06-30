@@ -5,7 +5,7 @@
 //require('./WinJS/Core');
 //require('WinJS/_Signal');
 //require('./WinJS/Scheduler');
-export {xhr} from './WinJS/Utilities/_xhr';
+export {xhr} from './WinJS/Utilities/_Xhr';
 export {Promise} from './WinJS/Promise/_StateMachine'
 
 
